@@ -1,7 +1,7 @@
 # e_shop
 
 Manuel d'utilisation :
-- faites un git clone https://github.com/M-Lahmer/flutter_app 
+- git clone https://github.com/M-Lahmer/flutter_app 
 - flutter pub get pour telecharger les dependences. une fois terminé lancer la commande dart run build_runner build
 - Pour ceux qui utilisent un émulateur Android, il doivent récupérer l'adresse ip de leur pc  pour l'utiliser dans le methode getUrlPhoto() de la classe PhotoService
 getUrlPhoto() {
